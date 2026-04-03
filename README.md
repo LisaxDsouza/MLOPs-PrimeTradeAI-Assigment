@@ -1,5 +1,6 @@
 # MLOps Batch Job - Technical Assessment
 #Done by: Lisa Hazel Dsouza
+
 A minimal MLOps-ready batch job built for signal generation on OHLCV data. This job demonstrates reproducibility, observability, and deployment readiness.
 
 ## Project Structure
